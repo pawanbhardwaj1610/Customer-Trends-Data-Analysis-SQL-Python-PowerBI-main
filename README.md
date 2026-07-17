@@ -145,14 +145,8 @@ Refresh the dataset if required.
 
 ## 📈 Dashboard Preview
 
-> 📷 Add screenshots of your Power BI dashboard here for better presentation.
 <img width="1630" height="815" alt="image" src="https://github.com/user-attachments/assets/81c1be52-a2f0-4502-8095-d33d69f41821" />
 
-Example:
-
-```
-images/dashboard.png
-```
 
 ---
 
