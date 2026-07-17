@@ -1,4 +1,4 @@
-# 🛍️ Customer Trends Data Analysis using SQL, Python & Power BI
+# 🛍️ Customer Behavior Data Analysis using SQL, Python & Power BI
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=mysql)
@@ -40,7 +40,7 @@ The project covers the complete analytics lifecycle including data cleaning, exp
 ## 📂 Project Structure
 
 ```
-Customer-Trends-Data-Analysis-SQL-Python-PowerBI-main/
+Customer-Behavior-Data-Analysis-SQL-Python-PowerBI-main/
 │
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
